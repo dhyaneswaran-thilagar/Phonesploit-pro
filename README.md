@@ -353,27 +353,3 @@ pkg install nmap
 * Do not use this tool to harm others.
 * Use this project responsibly on your own devices only.
 * It is the end user's responsibility to obey all applicable local, state, federal, and international laws.
-
-
-# Developer
-
-<a href="https://github.com/azeemidrisi/">
-<!--   <img src="https://contrib.rocks/image?repo=azeemidrisi/phonesploit-pro" /> -->
- <img width="150px" src=https://github.com/AzeemIdrisi/PhoneSploit-Pro/assets/112647789/a5fa646c-93a2-460f-bcb7-528fedb147e9 />
-
-</a>
-
-
-**Azeem Idrisi** - [@AzeemIdrisi](https://github.com/azeemidrisi/)
- 
-
-# Support Me
-If you like my work you can support me via :
-
-<a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
-        src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/paypal-button-blue.png" alt="PayPal"
-        width="147"></a> <a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/default-yellow.png" alt="Buy Me A Coffee" width="200"></a>
-
-<hr>
-
-Copyright © 2024 Mohd Azeem (github.com/AzeemIdrisi)
